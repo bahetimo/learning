@@ -1,0 +1,7 @@
+﻿  test.c
+  正在生成代码
+  1 of 16 functions ( 6.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  3_chess.vcxproj -> D:\c_program\test\1\3_chess\3_chess\x64\Release\3_chess.exe
